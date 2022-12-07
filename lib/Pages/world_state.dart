@@ -46,7 +46,6 @@ class _world_stateState extends State<world_state>
           padding: const EdgeInsets.all(8.0),
           child: Column(
             children: [
-              Text("Minhaz"),
               SizedBox(
                 height: size.height * .02,
               ),
